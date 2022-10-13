@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-test"
+  site-url: "https://pim0223.github.io/nbdev-test"
+  description: "nbdev test"
+  repo-branch: main
+  repo-url: "https://github.com/pim0223/nbdev-test"
